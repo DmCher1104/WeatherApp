@@ -1,1 +1,1 @@
-# WeatherApp
+Example of a weather application in php
